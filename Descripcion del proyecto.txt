@@ -1,0 +1,96 @@
+PROYECTO CUBO LED 5X5X5
+Profesor: Carlos Lescano
+Alumnos: Otazo Valentino & Ballerini Trinidad
+
+Descripcion del proyecto:
+	Un cubo led es una estructura constituida por diodos led que forman un cuadro tridimensional que a través de una plataforma libre llamada arduino 1
+	enviamos pulsos a los elementos electrónicos y esos pulsos hacen que el cubo led encienda a través de los códigos programados.
+
+Objetivos:
+	Mediante el desarrollo de este proyecto se busca crear un objeto meramente estetico y en ciertos casos se puede usar como practica 
+	para la especialidad de electronica.
+
+Usuarios:
+	Quien use este cubo serán personas que busquen un ejemplo de practica para el desarrollo de su propio proyecto o tambien se puede tomar de base y utilizar como 
+	un agregado en un show musical, siendo el cubo quien interprete las notas tocadas y prendiendose a medida que el ritmo cambie.
+
+Especificaciones:
+
+	Requisitos generales:
+		Poseer una computadora con los requisitos necesarios para procesar los comandos de Arduino.
+
+	Requisitos funcionales: 
+		El sistema sirve para mostrar el funcionamiento de una secuencia de leds y ademas como entretenimiento y objeto decorativo.
+
+	Alcances del sistema:
+		Este proyecto es explicitamente dirigido hacia personas que tengan un previo conocimiento de Arduino.
+
+Procedimientos del desarrollo:
+
+	Herramientas:
+		-Arduino UNO
+		-Cable USB Arduino
+		-Soldador de estaño.
+		-Estaño 
+		-Pinza
+		-Alicate
+		-Taladro atornillador
+		-Alambre galvanizado calibre 22
+		-125 diodos led
+		-65 cables Dupont macho macho
+		-Placa perforada PCB 10x10
+		-Placa perforada PCB 7x10
+		-4 registros de desplazamiento 74HC595
+		-Circuito integrado UNL2003
+		-4 bases para integrados de 16 pines
+		-Base para integrados de 18 pines
+		-32 resistencias de 150 ohms
+		-Header macho	
+		
+	Planificacion:
+		
+		Piso:
+			Paso 1: Cortar 35 segmentos de alambre de 20cm c/u y enderezarlos con el taladro.
+			Paso 2: Hacer 5 cuadrados de 20cm x 20cm con carton, marcar 1cm desde cada lado y empezando 
+			por cada interseccion, marcar 4,5cm. Luego hay que unir los puntos en horizontal y vertical.
+			Paso 3: Agujerear del tamaño del led en cada interseccion de todos los cartones e introducirlos doblando el cátodo en pararelo al carton.
+			Paso 4: insertar un segmento de alambre debajo de cada 5 cátodos y soldarlos (estos tienen que estar orientados en la misma direccion).
+	
+		Union de los pisos:
+			Paso 1: Cortar 25 segmentos de alambre de 25cm y enderezarlos con el taladro.
+			Paso 2: Repetir el paso 2 del punto anterior pero ahora con un material a elección (carton, madera, etc.) que no sea conductor.
+			Paso 3: Agujerear las intersecciones con el diametro del alambre e introducirlos desde abajo.
+			Paso 4: Cortar el restante de los cátodos.
+			Paso 5: Desprender todos los leds de un carton (no individualmente, sino el conjunto que se formo al soldarlos) e insertarlos desde arriba,
+			quedando los ánodos al lado de cada columna de alambre. 
+			Paso 6: Soldar los ánodos a las columnas y repetir este proceso con cada uno de los pisos dejando una separacion de 4,5cm hacia arriba 
+			entre cada piso.
+
+		Conexiones:
+			Para esta punto seguir el esquema.
+
+
+Fuentes: 
+https://www.youtube.com/watch?v=CMubX9D8XAA&t=834s
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
